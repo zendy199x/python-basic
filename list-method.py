@@ -35,7 +35,7 @@ print('k: ', k) # [1, 2, 5, 3, 4]
 m = [1, 2, 3, 4]
 n = m.pop(1) # bỏ đi phần tử thứ i trong mảng
 print('m: ', m) # [1, 3, 4]
-print('m: ', n) # 2
+print('n: ', n) # 2
 
 
 o = [1, 1, 1, 2, 3, 4]
